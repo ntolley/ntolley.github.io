@@ -26,3 +26,6 @@ github:
 
 github_username:  ntolley
 linkedin_username: ntolley
+
+gems: [jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
