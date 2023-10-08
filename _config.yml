@@ -9,12 +9,12 @@ highlighter:      rouge
 title:            Nicholas Tolley
 tagline:          'Nicholas Tolley'
 description:      'Computational Neuroscientist'
-url:              https://ntolley.github.io/
+url:              https://ntolley.github.io
 baseurl:          /
 
 author:
   name:           'Nicholas Tolley'
-  url:            https://ntolley.github.io/
+  url:            https://ntolley.github.io
 
 paginate:         5
 
@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/ntolley/ntolley.github.io/
+  repo:           https://github.com/ntolley/ntolley.github.io
 
 github_username:  ntolley
 linkedin_username: ntolley
